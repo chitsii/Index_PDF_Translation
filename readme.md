@@ -6,7 +6,7 @@
 ## システム要件
 
 * VRAM / RAM: 20GB
-  * 利用中のモデル「[Gemma2:24b Q4_0](https://ollama.com/library/gemma2)」で推論可能なメモリが必要
+  * 利用中のモデル「[Gemma2:27b Q4_0](https://ollama.com/library/gemma2)」で推論可能なメモリが必要
 
 ## 利用方法
 
